@@ -5,7 +5,7 @@ This project simulates a simple terminal file system using a linked-list tree st
 It was built to practice data structures, pointer manipulation, and command parsing in C.
 
 ## Build
-gcc main.c options.c -o minishell
+gcc main.c -o minishell
 
 ## Run
 ./minishell
